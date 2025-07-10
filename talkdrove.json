@@ -9,7 +9,7 @@
     "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
-        "value":"",
+        "value":"SHABAN-MD~gZBwDZ7R#4cO2nhtlXqz4Ojjj1cPRSRxU0NNCeInXOjcMAmZGTIE",
         "required": true
         
       },
@@ -36,7 +36,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
       
     },
     
